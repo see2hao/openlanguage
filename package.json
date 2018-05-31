@@ -1,0 +1,22 @@
+{
+  "name": "openlanguage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "aws4": "^1.7.0",
+    "express": "^4.16.3",
+    "forever-agent": "^0.6.1",
+    "is-typedarray": "^1.0.0",
+    "lodash": "^4.17.10",
+    "mkdirp": "^0.5.1",
+    "request": "^2.87.0",
+    "tough-cookie": "^2.3.4",
+    "tunnel-agent": "^0.6.0"
+  }
+}
